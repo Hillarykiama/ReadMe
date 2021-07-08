@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...javascript
-- 🌱 I’m currently learning ... javascript
-- 👯 I’m looking to collaborate on ... javascript and kotlin
+- 🔭 I’m currently working on ...python
+- 🌱 I’m currently learning ... python
+- 👯 I’m looking to collaborate on ... kotlin and python
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[Email}(iamhillary96@gmail.com)
