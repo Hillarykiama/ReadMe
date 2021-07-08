@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[Email}(iamhillary96@gmail.com)
-- 😄 Pronouns: ...He/His
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Gin,laughter and chill
 -->
